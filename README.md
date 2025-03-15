@@ -1,4 +1,8 @@
 # Netflix Stock Price Prediction Using Machine Learning
+# Team Members
+- Sai Nitish Gadde – 700758589
+- Bhuma Kishore babu – 700752976
+- Charith Reddy Putta - 700759727
 
 ## Project Overview
 This project aims to predict Netflix's stock price using various machine learning models, including Linear Regression, Random Forest, XGBoost, ARIMA, and LSTM. The dataset consists of historical stock prices, and the models are trained and evaluated using key performance metrics.
